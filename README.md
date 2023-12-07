@@ -1,2 +1,3 @@
 # TheStructure
 The complex complexity creator. The thing inventor. The one and the only. The Structure.
+This was originally supposed to be a marching kernel with a n-dimensional noise input that would slowly attempt to satisfy some local topological restriction on a copy of itself. Unfortunately, generative neural networks are now a thing, and they'd have the same functionality while also being lower on O-time complexity, unbound by the curse of dimensionality and much simpler. As such, this project is (obviously) cancelled until further notice. Someone probably did something similar in the past as well, as I did no research on the topic before starting this project :P
